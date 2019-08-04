@@ -8,6 +8,7 @@ Use Gitbash to clone repo
 Go to  https://github.com/Zuprocj/Bootstrap-Portfolio and clone repo
 
 Also Bootstrap-powered portfolio is deployed onto Github Pages.
+https://zuprocj.github.io/Bootstrap-Portfolio/
 
 ## Built with
 VSCode
